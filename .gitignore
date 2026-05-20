@@ -1,0 +1,12 @@
+# Output — do not commit
+user_groups.xlsx
+users_*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OCI credentials
+.oci/
